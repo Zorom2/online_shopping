@@ -20,7 +20,7 @@
 
 ## 🔗 Live Demo
 
-👉 [Click here to view the live site](https://your-demo-link.com)  
+👉 [Click here to view the live site](http://127.0.0.1:8000)  
 *(Replace with actual deployed link, e.g. Render, Railway, Vercel, etc.)*
 
 ---
