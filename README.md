@@ -27,24 +27,24 @@
 
 ## 📦 Features
 
-- ✅ User registration & login
-- ✅ Secure authentication (Laravel Auth)
-- ✅ Browse & filter products
-- ✅ Add to cart & manage quantities
-- ✅ Simple checkout (no real payment)
-- ✅ Admin panel for product CRUD (Create, Read, Update, Delete)
-- ✅ Responsive design with Bootstrap/Tailwind CSS
-- ✅ Clean MVC code structure
+- ✅ User registration & login  
+- ✅ Secure authentication (Laravel Auth)  
+- ✅ Browse & filter products  
+- ✅ Add to cart & manage quantities  
+- ✅ Simple checkout (no real payment)  
+- ✅ Admin panel for product CRUD (Create, Read, Update, Delete)  
+- ✅ Responsive design with Bootstrap/Tailwind CSS  
+- ✅ Clean MVC code structure  
 
 ---
 
 ## 📸 Screenshots
 
-| Homepage | Product Page |
-|----------|--------------|
-| ![home](screenshots/home.png) | ![product](screenshots/product.png) |
+| Admin page | User Page |
+|------------|-----------|
+| ![admin](screenshots/admin.png) | ![user](screenshots/user.png) |
 
-_Add more screenshots if available (e.g. cart page, admin dashboard)._
+_Add more screenshots if available (e.g. cart page, dashboard)._
 
 ---
 
