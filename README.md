@@ -42,7 +42,7 @@
 
 | Admin page | User Page |
 |------------|-----------|
-| ![admin](images/screenshots/admin.png) | ![user](images/screenshots/user.png) |
+| ![admin](screenshots/admin.png) | ![user](screenshots/user.png) |
 
 _Add more screenshots if available (e.g. cart page, dashboard)._
 
